@@ -34,4 +34,4 @@ while tamanho_fila != 1
     tamanho_fila = fila.length
 end
 
-print "#{fila}\n"
+print "O local protegido é o número #{fila}\n"
